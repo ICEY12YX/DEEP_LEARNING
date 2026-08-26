@@ -1,0 +1,55 @@
+{
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda",
+  "python.terminal.executeInFileDir": false,
+  "python.terminal.focusAfterLaunch": true,
+  "terminal.integrated.accessibleViewFocusOnCommandExecution": false,
+  "terminal.integrated.enablePersistentSessions": true,
+  "terminal.integrated.accessibleViewPreserveCursorPosition": false,
+  "terminal.integrated.autoReplies": {},
+  "gradle.reuseTerminals": "task",
+  "code-runner.runInTerminal": true,
+  "code-runner.preserveFocus": true,
+  "terminal.explorerKind": "integrated",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "python.defaultInterpreterPath": "D:\\anaconda\\anaconda3\\python.exe",
+  "python.analysis.extraPathsForPythonProjects": {},
+  "python.globalModuleInstallation": false,
+  "python.terminal.activateEnvInCurrentTerminal": true,
+
+  "workbench.colorCustomizations": {
+    "[Tokyo Night]": { // or "[Tokyo Night Storm]"
+        "foreground": "#959cbd",
+        "panelTitle.activeBorder": "#3d59a1",
+        "panelTitle.activeForeground": "#bdc7f0",
+        "panelTitle.inactiveForeground": "#959cbd",
+        "tab.activeForeground": "#bdc7f0",
+        "tab.inactiveForeground": "#959cbd",
+        "breadcrumb.foreground": "#959cbd",
+        "breadcrumb.focusForeground": "#bdc7f0",
+        "breadcrumb.activeSelectionForeground": "#bdc7f0",
+        "statusBar.foreground": "#bdc7f0",
+        "list.focusForeground": "#bdc7f0",
+        "list.hoverForeground": "#bdc7f0",
+        "list.activeSelectionForeground": "#bdc7f0",
+        "list.inactiveSelectionForeground": "#bdc7f0",
+        "list.inactiveSelectionBackground": "#202330",
+        "sideBar.foreground": "#959cbd",
+        "dropdown.foreground": "#959cbd",
+        "menu.foreground":"#bdc7f0",
+        "menubar.selectionForeground":"#bdc7f0",
+        "input.foreground": "#959cbd",
+        "input.placeholderForeground": "#959cbd",
+        "activityBar.foreground": "#bdc7f0",
+        "activityBar.inactiveForeground": "#787c99",
+        "gitDecoration.ignoredResourceForeground": "#696d87",
+        "editorCodeLens.foreground": "#7982a9", // Preferred hex color
+        "window.activeBorder": "#ff0000",
+        "window.inactiveBorder":"#0000ff"
+    },
+    "[Tokyo Night Light]": { // or "[Tokyo Night Storm]"
+         "list.inactiveSelectionBackground": "#EEF0F6",
+    }
+},
+"files.autoSave": "onFocusChange"
+}
