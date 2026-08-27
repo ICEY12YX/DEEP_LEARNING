@@ -1,0 +1,4 @@
+This is a sample text for testing the code.
+It contains multiple lines.
+This is the third line.
+This is an appended line.(追加文字)
